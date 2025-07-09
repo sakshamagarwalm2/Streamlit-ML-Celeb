@@ -19,7 +19,7 @@ To run this application locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/sakshamagarwalm2/Streamlit-ML-Celeb
    cd sakshamagarwalm2-streamlit-ml-celeb
    ```
 
